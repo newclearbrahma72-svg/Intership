@@ -1,0 +1,22 @@
+1> Python Basic
+   * Variable & Data Types : String, Integer List , Directory. 
+     :- to store data.
+   * Loops (for loop) : To work on row of the data.
+   * Functins (def): Taki code dubara likhna na pade.
+2> Pandas
+   a) pd.read_csv(file.csv') --> to load data.
+   b) df.head() --> frist five lines.
+   c) df.describe() --> Statistics(Average, Max, Min) nikalna.
+   d) df.to_csv('output.csv') --> Result save karna.
+3> Matplotlib ( Graphs ke liye)
+   a) plt.bar() --> Bar graph banane ke liye.
+   b) plt.plot() --> Line graph banane ke liye.
+   c) plt.show() --> Graph dikhne kel liye.
+4> NumPy (Sirf Concepy)
+   * What is an Array.
+   * It fast process numbers.
+5> random()
+   * How it works.
+   * How to generate linear, non-linear, and circular.
+   * .csv file for x-axis data and y-axis.
+   * To display the graph of it.
