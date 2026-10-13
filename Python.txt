@@ -23,7 +23,7 @@
      * .csv file for x-axis data and y-axis.
      * To display the graph of it.
 # Date(12-10-2026)
-  * Re-explanation for project.
-  * Make a .csv file on Linear, Non-linear, circular by using random() and by adding noise on it.
-  * Check whether the data is under that given criteria.
+     * Re-explanation for project.
+     * Make a .csv file on Linear, Non-linear, circular by using random() and by adding noise on it.
+     * Check whether the data is under that given criteria.
   
