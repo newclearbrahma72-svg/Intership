@@ -1,0 +1,2 @@
+Linear Line Formula: mx + c.
+Non-Linear Formula: y = x*x, xy = c.
