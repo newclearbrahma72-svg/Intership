@@ -1,0 +1,11 @@
+!>  np.linespace(start, stop, size)
+2>  np.random.seed(starting_state)
+3> random.normal(mean, scale, size)
+4> x= np.linspace(start, stop, size)
+5> true_y = mx + x
+6> plt.plot(x_values, y_values)
+7> plt.plot(x,y, label='Growth')
+8> plt.xlabel('Time')
+9> plt.ylabel('Value')
+10> plt.title("Growth Over Time')
+11> plt.show
