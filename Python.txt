@@ -27,3 +27,7 @@
      * Make a .csv file on Linear, Non-linear, circular by using random() and by adding noise on it.
      * Check whether the data is under that given criteria.
   
+# Date(30-10-2026)
+     * Add some small extra details on plot graph.
+     * Learn about co=relation efficient.
+     * co-relation efficient only works on 2-D Array.
