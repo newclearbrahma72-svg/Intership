@@ -10,3 +10,9 @@
 10> plt.title("Growth Over Time')
 11> plt.show
 12> plt.axis("equal")
+13> ndaray.ndlm
+14> ndaray.shape
+15> ndarray.size
+16> ndarry.dtype
+17> ndarray.itemsize
+
